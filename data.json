@@ -1,0 +1,32 @@
+[
+	{
+		"label":"Apple",
+		"backgroundColor":"#3498DB",
+		"hoverBackgroundColor":"#49A9EA",
+		"fruit_data":"190"
+	},
+	{
+		"label":"Banana",
+		"backgroundColor":"#9B59B6",
+		"hoverBackgroundColor":"#B370CF",
+		"fruit_data":"88"
+	},
+	{
+		"label":"Cherry",
+		"backgroundColor":"#E74C3C",
+		"hoverBackgroundColor":"#E95E4F",
+		"fruit_data":"34"
+	},
+	{
+		"label":"Grape",
+		"backgroundColor":"#26B99A",
+		"hoverBackgroundColor":"#36CAAB",
+		"fruit_data":"152"
+	},
+	{
+		"label":"melon",
+		"backgroundColor":"#FFA500",
+		"hoverBackgroundColor":"#FAD694",
+		"fruit_data":"23"
+	}
+]
